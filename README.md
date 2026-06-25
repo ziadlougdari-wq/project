@@ -1,2 +1,2 @@
 Link to GitHub : https://github.com/ziadlougdari-wq/project.git
-https://projetct1.netlify.app/
+Link to website : https://projetct1.netlify.app/
